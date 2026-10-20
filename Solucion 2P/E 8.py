@@ -23,7 +23,6 @@ def convertir_temperatura(temperatura, unidad):
 
 temperatura = float(input("Ingrese la temperatura a convertir: "))
 unidad = input("Ingrese la unidad de medida de la temperatura a convertir (C o F): ")
-temperatura_convertida = convertir_temperatura(temperatura, unidad)
 
 resultado = convertir_temperatura(temperatura, unidad)
 
